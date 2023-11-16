@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616496851547",
+    "project_id": "park-f1297",
+    "storage_bucket": "park-f1297.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616496851547:android:76d130e8b90bcdb6c4ed7e",
+        "android_client_info": {
+          "package_name": "com.park"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbli-yN6D-LvKZ3XTwKJaR3r1whKH4hus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
